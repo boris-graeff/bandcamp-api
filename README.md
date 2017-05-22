@@ -1,2 +1,2 @@
 # bandcamp-api
-Bandcamp srapper
+Bandcamp scrapper
